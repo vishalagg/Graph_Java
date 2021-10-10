@@ -8,3 +8,4 @@
 # Topological Ordering
 
 1.[Topological Order](https://github.com/vishalagg/Graph_Java/tree/master/src/main/java/TopologicalOrder/TopologicalOrdering)<br />
+2.[Shortest path using topological sort: Only applicable for DAG(Directed Acyclic Graph)](https://github.com/vishalagg/Graph_Java/tree/master/src/main/java/TopologicalOrder/ShortestPath)<br />
